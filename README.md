@@ -2,7 +2,7 @@
 
 ### Overview
 
-T his project involves the use of the Heart Disease Dataset to build a machine learning model that predicts whether a patient has heart disease based on various health-related features. The dataset provides a wealth of information, including patient demographics, health measurements, and test results, making it a great opportunity for data exploration and predictive modeling.
+This project involves the use of the Heart Disease Dataset to build a machine learning model that predicts whether a patient has heart disease based on various health-related features. The dataset provides a wealth of information, including patient demographics, health measurements, and test results, making it a great opportunity for data exploration and predictive modeling.
 
 ### Dataset
 
